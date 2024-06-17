@@ -1,0 +1,6 @@
+{
+  "source_folder": "file/",
+  "output_folder": "backup/",
+  "webhook_url": "https://discord.com/api/webhooks/1198535243133632512/gLCP7MSTlfy7WfcS72k7VC2w2RDMJXNIo7KQaKGt9xkAj-KZ2eK0HBkPldPrQIx33vMa",
+  "archive_interval": 60000 
+}
