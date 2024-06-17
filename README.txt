@@ -3,7 +3,7 @@ node javascript
 
 Guide:
 1. Open config.json file
-2. set file to archive, output archive, webhook url, and delay(ms)
+2. set path file to archive, output archived file, webhook url, and delay(ms)
 3. save the file
 4. run install.bat
 5. after it force closes
