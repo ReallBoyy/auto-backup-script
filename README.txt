@@ -1,5 +1,4 @@
-Auto backup/archive and then upload to discord webhook url using
-node javascript
+Auto backup/archive and then upload to discord server using discord webhook url
 
 Guide:
 1. Open config.json file
